@@ -1,4 +1,4 @@
-namespace lab2choosescore;
+namespace lab2choosescore.Models;
 
 public class Chore
 {
